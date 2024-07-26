@@ -1,5 +1,5 @@
 # tech-talks-caroline
-Tech-talks are short presentations about tech topics. 
+Tech-talks are short presentations (15 min) about miscellaneous technlogical topics. <br>
 Here-below the topics I have presented :
 
 - Api_introduction : 
