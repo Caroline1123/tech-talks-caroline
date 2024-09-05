@@ -1,6 +1,6 @@
 # tech-talks-caroline
 Tech-talks are short presentations (15 min) about miscellaneous technlogical topics. <br>
-Here-below the topics I have presented :
+Here-below the topics I have presented during the Becode training:
 
 - Api_introduction : 
     - An intro to the notion of API's and to the power of REST API's.
@@ -10,3 +10,6 @@ Here-below the topics I have presented :
  
 - The IoT : 
     - Explaining the Internet of Things (how it works, how it shapes the world around us .. ).
+
+- Unit Testing:
+    - Explaining the concept of unit testing, why it's important, and how to set it up.
